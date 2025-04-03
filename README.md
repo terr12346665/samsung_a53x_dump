@@ -17,3 +17,4 @@
 - OTA version: 
 - Branch: a53xnaxx-user-13-TP1A.220624.014-A536BXXS4BWA2-release-keys
 - Repo: samsung_a53x_dump
+UniversalX-devs/samsung_a53x_dump:a53xnaxx-user-A014-A536BXXS4BWA2-release-keys
